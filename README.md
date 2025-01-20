@@ -87,7 +87,7 @@ The algorithm identifies optimal locations for new EV charging stations, conside
 **Year**: 2021
 
 ## References
-1. 김지규."전기차 급속충전소의 최적 입지선정 연구(A study on Determine the Optimized Location for Electric Vehicle Fast Charging Station),” (석사학위, 서울시립대학교 대학원, 2021), 43
-2. 진강규, 하주식."최적화기법으로서의 유전알고리즘과 그 응용 ( Genetic Algorithms as Optimisation Tools and Their Applications )."한국마린엔지니어링학회지21.2(1997):108-116.
-3. StackExchange GIS. "Generating Random Coordinates in Multipolygon in Python." Available at: GIS StackExchange
-4. 이원재, 김학영(2005), "Python 을 사용한 유전 알고리즘 구현", 제23회 한국정보처리학회 춘계학술발표대회 논문집 제12권 제1호 (2005. 5), pp.473~476
+1. [김지규."전기차 급속충전소의 최적 입지선정 연구(A study on Determine the Optimized Location for Electric Vehicle Fast Charging Station),” (석사학위, 서울시립대학교 대학원, 2021), 43](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015756696)
+2. [진강규, 하주식."최적화기법으로서의 유전알고리즘과 그 응용 ( Genetic Algorithms as Optimisation Tools and Their Applications )."한국마린엔지니어링학회지21.2(1997):108-116.](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO199711919927852)
+3. [StackExchange GIS. "Generating Random Coordinates in Multipolygon in Python." Available at: GIS StackExchange](https://gis.stackexchange.com/questions/207731/generating-random-coordinates-in-multipolygon-in-python)
+4. [이원재, 김학영(2005), "Python 을 사용한 유전 알고리즘 구현", 제23회 한국정보처리학회 춘계학술발표대회 논문집 제12권 제1호 (2005. 5), pp.473~476](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP08118183)
