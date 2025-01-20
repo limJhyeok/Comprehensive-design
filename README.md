@@ -1,6 +1,9 @@
 # EV Charging Station Optimal Location Selection Project
 
+**언어 선택 / Language Selection:**
 
+- [🇰🇷 한국어 (Korean)](README.ko.md)
+- [🇺🇸 English](README.md)
 
 ## **Overview**
 This project focuses on determining the optimal locations for electric vehicle (EV) charging stations in the Michuhol district of Incheon, South Korea. The objective is to minimize travel and waiting times for EV users, improving accessibility and convenience.
@@ -25,7 +28,9 @@ The project integrates geospatial data processing and optimization using Python.
    - **Initialization**: Random generation of candidate points within the Michuhol district.
    - **Evaluation**: Scoring candidate points based on proximity to population centers and existing stations.
    - **Selection**: Fitness-based selection of candidate points using a roulette-wheel approach.
-   - **Crossover & Mutation**: Generate new candidates within the vicinity of high-performing points.
+   - **Crossover & Mutation**:
+      - Crossover: Generate new candidates within the vicinity of high-performing points.
+      - Mutation: Random generation of candidate points within the Michuhol district.
    - **Iteration**: Repeat until convergence or maximum iterations are reached.
 
 
